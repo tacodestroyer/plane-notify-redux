@@ -43,7 +43,7 @@ Ubuntu 24.04 LTS
 
 * Clone this repository
   ```
-  sudo git clone 
+   git clone https://github.com/tacodestroyer/plane-notify-redux.git
   ```
 * Clone OpenSky repository into plane-notify-redux directory
   ```
