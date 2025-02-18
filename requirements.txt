@@ -7,7 +7,6 @@ pillow
 tweepy
 discord-webhook
 selenium
-#git+https://github.com/openskynetwork/opensky-api.git@master#subdirectory=python/
 webdriver-manager
 shapely
 pandas
