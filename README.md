@@ -47,8 +47,7 @@ Some of the changes that I've made are:
   ```
 * Install Python3 and Pip
   ```
-  sudo apt install python3 python3-pip pipenv
-  sudo apt install -y pkg-config libcairo2-dev libjpeg-dev libpng-dev
+  sudo apt install -y python3 python3-pip pipenv pkg-config libcairo2-dev libjpeg-dev libpng-dev
   pipenv run pip install -r requirements.txt
   ```
 
