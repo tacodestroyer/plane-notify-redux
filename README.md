@@ -33,11 +33,18 @@ Some of the changes that I've made are:
 
 ### Dependencies
 
-* TBD
+* Python3
 
 ### Installing
 
-* TBD
+* Clone repository
+  ```
+  sudo git clone 
+  ```
+* Install Python3 and Pip
+  ```
+  sudo apt-get install python3 python3-pip
+  ```
 
 ### Executing program
 
