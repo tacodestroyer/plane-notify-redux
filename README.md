@@ -37,16 +37,19 @@ Some of the changes that I've made are:
 
 ### Installing
 
-* Clone repository
+* Clone this repository
   ```
   sudo git clone 
+  ```
+* Clone OpenSky repository into plane-notify-redux directory
+  ```
+    git clone https://github.com/openskynetwork/opensky-api.git
   ```
 * Install Python3 and Pip
   ```
   sudo apt install python3 python3-pip pipenv
   sudo apt install -y pkg-config libcairo2-dev libjpeg-dev libpng-dev
   pipenv run pip install -r requirements.txt
-
   ```
 
 ### Executing program
