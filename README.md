@@ -44,7 +44,6 @@ Some of the changes that I've made are:
 * Install Python3 and Pip
   ```
   sudo apt install python3 python3-pip pipenv
-  sudo apt install sudo apt update
   sudo apt install -y pkg-config libcairo2-dev libjpeg-dev libpng-dev
 
   ```
