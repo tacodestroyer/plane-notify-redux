@@ -31,6 +31,10 @@ Some of the changes that I've made are:
 
 ## Getting Started
 
+### OS
+
+Ubuntu 24.04 LTS
+
 ### Dependencies
 
 * Python3
@@ -53,10 +57,8 @@ Some of the changes that I've made are:
 
 ### Executing program
 
-* TBD
-* 
 ```
-code blocks for commands
+pipenv run python __main__.py
 ```
 
 ## Help
