@@ -61,18 +61,6 @@ Ubuntu 24.04 LTS
 pipenv run python __main__.py
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-
 ## Version History
 
 * 0.1
@@ -80,4 +68,4 @@ Contributors names and contact info
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
+I'd first like to acknowledge the heck-of-a-job Jack Sweeny did to get this thing created! If it weren't for his work, I would not have been able to share this. 
