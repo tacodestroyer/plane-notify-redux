@@ -38,6 +38,7 @@ Ubuntu 24.04 LTS
 ### Dependencies
 
 * Python3
+* Google Chrome
 
 ### Installing
 
